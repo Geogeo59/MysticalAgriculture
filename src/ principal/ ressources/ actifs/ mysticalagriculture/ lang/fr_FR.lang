@@ -1,27 +1,27 @@
 # CREATIVE TAB
-itemGroup.tabMysticalAgriculture=Mystical Agriculture
+itemGroup.tabMysticalAgriculture=Agriculture Mystique
 
 # STORAGE BLOCKS
-tile.ma.storage_inferium.name=§eBlock of Inferium Essence
-tile.ma.storage_prudentium.name=§aBlock of Prudentium Essence
-tile.ma.storage_intermedium.name=§6Block of Intermedium Essence
-tile.ma.storage_superium.name=§bBlock of Superium Essence
-tile.ma.storage_supremium.name=§cBlock of Supremium Essence
-tile.ma.storage_prosperity.name=Block of Prosperity
+tile.ma.storage_inferium.name=§eBloc d'Essence Inferium
+tile.ma.storage_prudentium.name=§aBloc d'Essence Prudentium
+tile.ma.storage_intermedium.name=§6Bloc d'Essence Intermedium
+tile.ma.storage_superium.name=§bBloc d'Essence Superium
+tile.ma.storage_supremium.name=§cBloc d'Essence Supremium
+tile.ma.storage_prosperity.name=Bloc de Prospérité
 
-tile.ma.ingot_storage_base_essence.name=Block of Base Essence
-tile.ma.ingot_storage_inferium.name=§eBlock of Inferium
-tile.ma.ingot_storage_prudentium.name=§aBlock of Prudentium
-tile.ma.ingot_storage_intermedium.name=§6Block of Intermedium
-tile.ma.ingot_storage_superium.name=§bBlock of Superium
-tile.ma.ingot_storage_supremium.name=§cBlock of Supremium
-tile.ma.ingot_storage_soulium.name=§dBlock of Soulium
+tile.ma.ingot_storage_base_essence.name=Bloc d'Essence de Base
+tile.ma.ingot_storage_inferium.name=§eBloc d'Inferium
+tile.ma.ingot_storage_prudentium.name=§aBloc de Prudentium
+tile.ma.ingot_storage_intermedium.name=§6Bloc d'Intermedium
+tile.ma.ingot_storage_superium.name=§bBloc de Superium
+tile.ma.ingot_storage_supremium.name=§cBloc de Supremium
+tile.ma.ingot_storage_soulium.name=§dBloc de Soulium
 
-tile.ma.coal_block_inferium.name=§eBlock of Inferium Coal
-tile.ma.coal_block_prudentium.name=§aBlock of Prudentium Coal
-tile.ma.coal_block_intermedium.name=§6Block of Intermedium Coal
-tile.ma.coal_block_superium.name=§bBlock of Superium Coal
-tile.ma.coal_block_supremium.name=§cBlock of Supremium Coal
+tile.ma.coal_block_inferium.name=§eBloc de Charbon Inferium
+tile.ma.coal_block_prudentium.name=§aBloc de Charbon Prudentium
+tile.ma.coal_block_intermedium.name=§6Bloc de Charbon Intermedium
+tile.ma.coal_block_superium.name=§bBloc de Charbon Superium
+tile.ma.coal_block_supremium.name=§cBloc de Charbon Supremium
 
 # SOULSTONE
 tile.ma.soulstone_smooth.name=Soulstone
